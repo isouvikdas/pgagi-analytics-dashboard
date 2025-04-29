@@ -5,7 +5,7 @@ This is a clean and simple weather app that shows you the current weather, today
 
 ## 🌐 Live App
 
-[https://lustrous-raindrop-b7cd4b.netlify.app/](https://lustrous-raindrop-b7cd4b.netlify.app/)
+[https://lustrous-raindrop-b7cd4b.netlify.app/](https://roaring-sundae-1f310d.netlify.app/)
 
 ## 🚀 Tech Stack Used
 
